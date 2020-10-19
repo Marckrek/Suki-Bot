@@ -465,4 +465,4 @@ async def on_member_join(member):
    await member.add_roles(discord.utils.get(member.guild.roles, name="Fluffy Sociedad"))
 
 
-bot.run('NzUyNzUxODA4NjgxNzM4NDIy.X1cMwA.OjOeeILxiJpGeeRq_cGUY97s9CQ')
+bot.run('Token')
